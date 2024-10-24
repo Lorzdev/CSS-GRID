@@ -91,7 +91,7 @@ These properties define the structure of the grid by specifying the size and num
 i use 5 pages using css grid
 
 #### List of Products
-![image](https://github.com/user-attachments/assets/e5cc93f1-dece-42c9-ad50-7375095a6590)
+![image](https://github.com/user-attachments/assets/cf162615-d9dd-4b89-8729-d6831645ad70)
 
 #### List of Employees
 ![image](https://github.com/user-attachments/assets/64128669-e28d-493c-88ba-61ada090ea4b)
