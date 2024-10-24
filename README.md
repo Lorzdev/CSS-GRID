@@ -94,16 +94,17 @@ i use 5 pages using css grid
 ![image](https://github.com/user-attachments/assets/cf162615-d9dd-4b89-8729-d6831645ad70)
 
 #### List of Employees
-![image](https://github.com/user-attachments/assets/64128669-e28d-493c-88ba-61ada090ea4b)
+![image](https://github.com/user-attachments/assets/5cba0434-2848-46d4-8db5-acdf0d91b2f1)
 
 #### List of Students
-![image](https://github.com/user-attachments/assets/2146a393-8cd1-44d4-bb69-badd426ce918)
+![image](https://github.com/user-attachments/assets/48ca0ab8-a20a-4d9b-b9e2-4bc637aac1f1)
 
 #### List of Courses
-![image](https://github.com/user-attachments/assets/4a959f72-1d5e-4b2c-883e-82b97c247cfb)
+![image](https://github.com/user-attachments/assets/960f7d7d-64c1-4fff-b75c-bdb8dee6e3fa)
 
 #### List of Projects
-![image](https://github.com/user-attachments/assets/4a8fb63f-a0e0-4e98-817a-5a53f5b9effb)
+![image](https://github.com/user-attachments/assets/be812940-1c73-4900-b628-57baf04839b1)
+
 
 
 
